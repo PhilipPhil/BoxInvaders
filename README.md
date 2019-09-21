@@ -3,7 +3,7 @@ Java game created with only Java Libraries and no game engine. It has 4 levels w
 
 
 ## Instructions
-Very simple game. Use arrow keys to move. Space bar is pause. Use mouse to to click on menu screens.Dodge the projectiles, they will reduce your health bar. The color changing projectiles on every 4rth level will increase your health bar if touched. The game has sound and music so keep your speaker on.
+Very simple game. You are the little white square. Use arrow keys to move. Space bar is pause. Use mouse to to click on menu screens. Dodge the projectiles, they will reduce your health bar. The color changing projectiles on every 4rth level will increase your health bar if touched. The game has sound and music so keep your speaker on.
 
 
 ## Main Menu
