@@ -4,7 +4,7 @@ Hacked togeter over a weekend. There are some bugs. Don't click too quickly on t
 
 
 ## Instructions
-Very simple game. Use arrow keys to move. Space bar is pause. Use mouse to to click on menu screens.Dodge the projectiles, they will reduce your health bar. The color changing projectiles on every 4rth level will increase your health bar if touched. 
+Very simple game. Use arrow keys to move. Space bar is pause. Use mouse to to click on menu screens.Dodge the projectiles, they will reduce your health bar. The color changing projectiles on every 4rth level will increase your health bar if touched. The game has sound and music so keep your speaker on.
 
 
 ## Main Menu
