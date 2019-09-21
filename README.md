@@ -7,29 +7,29 @@ Hacked togeter over a weekend. There are some bugs. Don't click too quickly on t
 Very simple game. Use arrow keys to move. Space bar is pause. Use mouse to to click on menu screens.Dodge the projectiles, they will reduce your health bar. The color changing projectiles on every 4rth level will increase your health bar if touched. 
 
 
-### Main Menu
+## Main Menu
 ![header](images/MainMenu.PNG)
 
 
-### Help Menu
+## Help Menu
 ![header](images/HelpMenu.PNG)
 
 
-### DeathScreen
+## DeathScreen
 ![header](images/DeathScreen.PNG)
 
 
-### Level 1 & Level2
-#### Level 1 and 2 look the same but level 2 has more projectiles.
+## Level 1 & Level2
+### Level 1 and 2 look the same but level 2 has more projectiles.
 ![header](images/Level1.PNG)
 
-### Level 3
+## Level 3
 ![header](images/Level2.PNG)
 
 
-### Level4
+## Level4
 ![header](images/Level4.PNG)
 
 
-### Pause (press spacebar)
+## Pause (press spacebar)
 ![header](images/Pause.PNG)
