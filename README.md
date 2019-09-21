@@ -8,7 +8,7 @@ Very simple game. Use arrow keys to move. Space bar is pause. Use mouse to to cl
 
 
 ### Main Menu
-![header](images/MainMenu.png)
+![header](images/MainMenu.PNG)
 
 
 ### Help Menu
