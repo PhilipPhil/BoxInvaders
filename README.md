@@ -14,11 +14,6 @@ Very simple game. Use arrow keys to move. Space bar is pause. Use mouse to to cl
 ## Help Menu
 ![header](images/HelpMenu.PNG)
 
-
-## DeathScreen
-![header](images/DeathScreen.PNG)
-
-
 ## Level 1 & Level2
 ### Level 1 and 2 look the same but level 2 has more projectiles.
 ![header](images/Level1.PNG)
@@ -33,3 +28,6 @@ Very simple game. Use arrow keys to move. Space bar is pause. Use mouse to to cl
 
 ## Pause (press spacebar)
 ![header](images/Pause.PNG)
+
+## DeathScreen
+![header](images/DeathScreen.PNG)
