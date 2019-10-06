@@ -2,7 +2,7 @@
 Java game created with only Java Libraries and no game engine. It has 4 levels which it rotates through. The game goes on forever and you play for high-score. There are some bugs for example don't click too quickly on the menu screen :)
 
 ## How to start the game
-Click [here](https://github.com/PhilipPhil/BoxInvaders/releases/download/v1/Download-This-To-Play-The-Game.zip) to download the game. Unzip the file and play.
+Click [here](https://github.com/PhilipPhil/BoxInvaders/releases/download/v1/Download-This-To-Play-The-Game.zip) to download the game. Unzip the file and play. Java must be installed.
 
 ## Instructions
 Very simple game. You are the little white square. Use arrow keys to move. Space bar is pause. Use mouse to to click on menu screens. Dodge the projectiles, they will reduce your health bar. The color changing projectiles on every 4rth level will increase your health bar if touched. The game has sound and music so keep your speaker on.
